@@ -1,3 +1,3 @@
-module Gstaticmap
+module GStaticMap
   VERSION = "0.0.1"
 end

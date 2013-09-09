@@ -1,5 +1,5 @@
 require "gstaticmap/version"
 
-module Gstaticmap
+module GStaticMap
   # Your code goes here...
 end

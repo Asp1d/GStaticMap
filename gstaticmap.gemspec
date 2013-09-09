@@ -5,11 +5,11 @@ require 'gstaticmap/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "gstaticmap"
-  spec.version       = Gstaticmap::VERSION
+  spec.version       = GStaticMap::VERSION
   spec.authors       = ["Yanis Tsaunya"]
   spec.email         = ["yanis88@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = ""
+  spec.summary       = ""
   spec.homepage      = ""
   spec.license       = "MIT"
 
