@@ -1,5 +1,8 @@
 require "gstaticmap/version"
+require "gstaticmap/image"
+require "gstaticmap/marker"
+
 
 module GStaticMap
-  # Your code goes here...
+
 end
